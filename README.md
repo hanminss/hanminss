@@ -22,7 +22,7 @@
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo"/>
     </p><br/>
-    <h3> ⭐️ stats </h3>
+    <h3> ⭐️ stats ⭐️ </h3>
     <p>
       <img src="https://github-readme-stats.vercel.app/api?username=hanminss&theme=blue-green&show_icons=true" alt="stats"/>
     </p>
