@@ -19,7 +19,7 @@
     </p>
     <p>
       <img src="https://img.shields.io/badge/python★★★☆☆-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
-      <img src="https://img.shields.io/badge/django★★☆☆☆-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
+      <img src="https://img.shields.io/badge/django★★★☆☆-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
       <img src="https://img.shields.io/badge/mysql★★☆☆☆-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
       <img src="https://img.shields.io/badge/MongoDB★★☆☆☆-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo"/>
     </p><br/>
