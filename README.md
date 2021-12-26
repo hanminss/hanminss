@@ -1,7 +1,7 @@
 <div align="center">
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=FE%20Developer&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=hanminss&descAlignY=70">
-  <div> -->
+<!-- 
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=FE%20Developer&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=hanminss&descAlignY=70"> -->
+  <div>
     <h3> 👨🏼‍🦱 hanminss </h3>
     <p>
       <a href="mailto:gksals6464@gamil.com"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="gmail" /></a>
